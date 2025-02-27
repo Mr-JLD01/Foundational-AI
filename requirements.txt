@@ -1,0 +1,6 @@
+mypy
+numpy==2.2.1
+matplotlib
+scikit-learn
+pandas
+ucimlrepo
